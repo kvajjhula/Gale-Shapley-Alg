@@ -36,7 +36,7 @@ This repository contains an implementation of the Gale-Shapley Stable Matching a
 
 ## Files Included
 
-- `MainClass.java` - The entry point for the application.
+- `Main.java` - The entry point for the application.
 - `Man.java` - Class definition for a Man.
 - `Woman.java` - Class definition for a Woman.
 
