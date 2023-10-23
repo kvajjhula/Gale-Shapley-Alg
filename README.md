@@ -3,13 +3,8 @@
 ## Description
 This repository contains an implementation of the Gale-Shapley Stable Matching algorithm. This was developed as part of an Algorithms and Computational Complexity class at the University of Washington (CSE 417). My implementation is in Java
 
-## Assignment Specification
-
-### Programming Problem 4
-- Implement the Gale-Shapley Stable Matching Algorithm.
+- Implements the Gale-Shapley Stable Matching Algorithm.
 - The program also outputs the list of proposals made during the algorithm execution.
-
-### Programming Problem 5
 - Includes an input generator to create random preference lists.
 - It also contains code to evaluate the 'goodness' of matches for both Men and Women.
 
